@@ -1,0 +1,21 @@
+Content-Type: text/html; charset=utf-8
+X-Frame-Options: SAMEORIGIN
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 0
+Vary: Accept, Accept-Encoding
+Etag: "xey99o7i5rifuw"
+Cache-Control: private, no-cache, no-store, max-age=0, must-revalidate
+Server-Timing: getAuthToken; dur=0.060379999999999996; desc="Fetching an auth token"
+Server-Timing: getFeatureFlags; dur=2.668719; desc="Fetching feature flags"
+Server-Timing: parseSearchUrl; dur=0.087422; desc="Parsing the search URL"
+Server-Timing: searchClient; dur=106.547528; desc="Search Client"
+Server-Timing: soldSearchClient; dur=183.816644; desc="Sold Search Client"
+Server-Timing: transformingProps; dur=33.944623; desc="Transforming props"
+Server-Timing: total; dur=315.489247; desc="Total Response Time"
+X-Akamai-Transformed: 9 - 0 pmb=mTOE,1
+Content-Encoding: gzip
+Date: Thu, 24 Aug 2023 20:24:13 GMT
+Set-Cookie: searchSOI=qld; Path=/; Expires=Thu, 31 Aug 2023 20:24:13 GMT; Secure
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains

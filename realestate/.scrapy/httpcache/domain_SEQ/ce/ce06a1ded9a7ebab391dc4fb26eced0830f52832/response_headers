@@ -1,0 +1,23 @@
+Content-Type: text/html; charset=utf-8
+X-Frame-Options: SAMEORIGIN
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 0
+Vary: Accept, Accept-Encoding
+Etag: "2phqrjvv4gpr7k"
+Cache-Control: private, no-cache, no-store, max-age=0, must-revalidate
+Server-Timing: getAuthToken; dur=0.054967999999999996; desc="Fetching an auth token"
+Server-Timing: getFeatureFlags; dur=3.4921979999999997; desc="Fetching feature flags"
+Server-Timing: parseSearchUrl; dur=0.112133; desc="Parsing the search URL"
+Server-Timing: searchClient; dur=143.386554; desc="Search Client"
+Server-Timing: soldSearchClient; dur=218.04232499999998; desc="Sold Search Client"
+Server-Timing: transformingProps; dur=41.24368; desc="Transforming props"
+Server-Timing: total; dur=408.655036; desc="Total Response Time"
+X-Akamai-Transformed: 9 - 0 pmb=mTOE,3
+Content-Encoding: gzip
+Date: Thu, 24 Aug 2023 20:19:31 GMT
+Set-Cookie: searchSOI=qld; Path=/; Expires=Thu, 31 Aug 2023 20:19:31 GMT; Secure
+Set-Cookie: bm_mi=88738FFE2D90047A932A4D6978755968~YAAQLKgtF47H3RiKAQAAPL0zKRRX9Z8HGiRddU65LIm89aZbUDLdIecbS3q5S/P16ohd9MJdrdtaStfO0uTD7doERtcUI+Syg5Xf6cGrbJ8jSaj9o7e7dHX0f6s0xhw0EdtoKP18QZ6ncDAKwmu1NuFz0zgQttCDhwvU/+DTVkf8e2uaTWBqqSmom83wnSjnwRj/P2GGeemL188bUOPM3mRkh+xIvpTPFN8ovE0yRESAzaAiKi/5fD9JQjgf6YDg3/QVRBR1SeW7Cc3eYlyPWOuK6a5Moag7VFTERbMXo8CUyqtTUK64ABllWipbA6JfvK9wqs7v85+oLCLu7LRoAPX2zgqjqp2fHQe6ProbTuUX/aclIuXr439nS/FrtQ==~1; Domain=.domain.com.au; Path=/; Expires=Thu, 24 Aug 2023 22:11:43 GMT; Max-Age=6732; Secure
+Set-Cookie: bm_sv=BD05F7E38C03064974256F36B2CDCB2D~YAAQLKgtF4/H3RiKAQAAPL0zKRRkuXCIgHfYxlEisBE8XuvX+2PgmNTkrSvwTUrVV0iAO6dUbi+cYCHza0veppgumOjXSZeSeA91Obqk36TwTvBJuJttnzQ18BVP8kfCYVMruIPjvK2MvLSlumbxKcKI4gYokEEwGJBcU2WAG7Y4HMlv7Q2cwtgTkGQKwMPeoGwLmNOdvw7B/lAzAs62VAMv6g+IVUq7iULb4U/35mF0jG5fmPwQft7LRprJeL6qVK6P~1; Domain=.domain.com.au; Path=/; Expires=Thu, 24 Aug 2023 22:11:47 GMT; Max-Age=6736; Secure
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains

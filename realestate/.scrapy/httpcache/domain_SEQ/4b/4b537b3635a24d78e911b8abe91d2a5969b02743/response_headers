@@ -1,0 +1,33 @@
+Content-Type: text/html; charset=utf-8
+X-Frame-Options: SAMEORIGIN
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 0
+Vary: Accept, Accept-Encoding
+Etag: "iybvpzyfji9yj2"
+Server-Timing: getAuthToken; dur=0.052274999999999995; desc="Fetching an auth token"
+Server-Timing: getFeatureFlags; dur=3.9191469999999997; desc="Fetching feature flags"
+Server-Timing: listingSuppressionApiClient; dur=4.6323669999999995; desc="FETCH: Suppression API"
+Server-Timing: similarListingApiClient; dur=4.620884; desc="FETCH: Similar Listing API"
+Server-Timing: listingsApiClient; dur=11.491543; desc="FETCH: Listing API"
+Server-Timing: allhomesCanonicalListings; dur=0.209176; desc="FETCH: Allhomes canonical listings"
+Server-Timing: schoolApiClient_nearbyExtended; dur=7.407175; desc="FETCH: School API nearbyExtended"
+Server-Timing: buildingProfileApiClient; dur=7.374860999999999; desc="FETCH: Building Profile API"
+Server-Timing: agencyApiClient-list; dur=7.348579999999999; desc="FETCH: Agent List API"
+Server-Timing: sa1ApiClient; dur=7.329059999999999; desc="FETCH: SA1 API"
+Server-Timing: propertyProfile; dur=8.448134999999999; desc="FETCH: Property Profile API"
+Server-Timing: agencyApiClient; dur=9.811107999999999; desc="FETCH: Agency API"
+Server-Timing: streetApiClient; dur=9.794297; desc="FETCH: Street API"
+Server-Timing: SearchNonCritical-listing; dur=10.872620999999999; desc="POST: Similar Listings By Search API"
+Server-Timing: additionalDataClient; dur=10.846881; desc="FETCH: Additional data"
+Server-Timing: inferenceApiClient; dur=10.826379; desc="FETCH: Inference API"
+Server-Timing: listingAggregatorTime; dur=22.904418; desc="LISTING AGGREGATOR"
+Server-Timing: getLocationProfileData; dur=18.096902; desc="Fetching location profile data"
+Server-Timing: total; dur=153.143504; desc="Total Response Time"
+X-Akamai-Transformed: 9 - 0 pmb=mTOE,1
+Content-Encoding: gzip
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Thu, 24 Aug 2023 20:38:21 GMT
+Date: Thu, 24 Aug 2023 20:38:21 GMT
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains

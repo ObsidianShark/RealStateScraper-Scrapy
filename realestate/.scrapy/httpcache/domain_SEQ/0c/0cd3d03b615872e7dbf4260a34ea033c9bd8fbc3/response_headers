@@ -1,0 +1,34 @@
+Content-Type: text/html; charset=utf-8
+X-Frame-Options: SAMEORIGIN
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 0
+Vary: Accept, Accept-Encoding
+Etag: "hbsl2tvbcxadzk"
+Server-Timing: getAuthToken; dur=0.054743999999999994; desc="Fetching an auth token"
+Server-Timing: getFeatureFlags; dur=4.109547; desc="Fetching feature flags"
+Server-Timing: listingSuppressionApiClient; dur=1.4765199999999998; desc="FETCH: Suppression API"
+Server-Timing: similarListingApiClient; dur=1.470144; desc="FETCH: Similar Listing API"
+Server-Timing: listingsApiClient; dur=19.009348; desc="FETCH: Listing API"
+Server-Timing: allhomesCanonicalListings; dur=0.28829099999999996; desc="FETCH: Allhomes canonical listings"
+Server-Timing: schoolApiClient_nearbyExtended; dur=10.711305; desc="FETCH: School API nearbyExtended"
+Server-Timing: buildingProfileApiClient; dur=10.673229; desc="FETCH: Building Profile API"
+Server-Timing: agencyApiClient-list; dur=10.620903; desc="FETCH: Agent List API"
+Server-Timing: sa1ApiClient; dur=10.586841999999999; desc="FETCH: SA1 API"
+Server-Timing: propertyProfile; dur=10.571784; desc="FETCH: Property Profile API"
+Server-Timing: agencyApiClient; dur=12.658878999999999; desc="FETCH: Agency API"
+Server-Timing: streetApiClient; dur=12.627877; desc="FETCH: Street API"
+Server-Timing: SearchNonCritical-listing; dur=13.514999999999999; desc="POST: Similar Listings By Search API"
+Server-Timing: additionalDataClient; dur=13.470369; desc="FETCH: Additional data"
+Server-Timing: inferenceApiClient; dur=13.453533; desc="FETCH: Inference API"
+Server-Timing: rtaAuctionApiClient; dur=34.655305999999996; desc="FETCH: RTA Auction API"
+Server-Timing: listingAggregatorTime; dur=54.092537; desc="LISTING AGGREGATOR"
+Server-Timing: getLocationProfileData; dur=0.041587; desc="Fetching location profile data"
+Server-Timing: total; dur=155.31748199999998; desc="Total Response Time"
+X-Akamai-Transformed: 9 - 0 pmb=mTOE,1
+Content-Encoding: gzip
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Thu, 24 Aug 2023 20:36:27 GMT
+Date: Thu, 24 Aug 2023 20:36:27 GMT
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains

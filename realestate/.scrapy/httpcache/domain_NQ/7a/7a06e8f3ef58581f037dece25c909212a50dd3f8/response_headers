@@ -1,0 +1,25 @@
+Content-Type: text/html; charset=utf-8
+X-Frame-Options: SAMEORIGIN
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 0
+Vary: Accept, Accept-Encoding
+Etag: "tkn23xen17hjui"
+Cache-Control: private, no-cache, no-store, max-age=0, must-revalidate
+Server-Timing: getAuthToken; dur=0.056792999999999996; desc="Fetching an auth token"
+Server-Timing: getFeatureFlags; dur=2.9628929999999998; desc="Fetching feature flags"
+Server-Timing: parseSearchUrl; dur=0.087203; desc="Parsing the search URL"
+Server-Timing: featuredAgencyClient; dur=1.900115; desc="Featured Agency Client"
+Server-Timing: featuredPropertiesClient; dur=18.30011; desc="Featured Properties Client"
+Server-Timing: searchClient; dur=65.386982; desc="Search Client"
+Server-Timing: soldSearchClient; dur=72.060503; desc="Sold Search Client"
+Server-Timing: transformingProps; dur=30.552417; desc="Transforming props"
+Server-Timing: total; dur=214.47938499999998; desc="Total Response Time"
+X-Akamai-Transformed: 9 - 0 pmb=mTOE,3
+Content-Encoding: gzip
+Date: Wed, 13 Sep 2023 00:07:39 GMT
+Set-Cookie: searchSOI=qld; Path=/; Expires=Wed, 20 Sep 2023 00:07:39 GMT; Secure
+Set-Cookie: bm_mi=7608366EA209E88884CB73F3A6DDFA83~YAAQLKgtFxDX4YOKAQAAdG/dixU73JPQ441jxL6RhUqkvXBLSo8C9MyI9KyxNcFWrhx96Ig5/5FF70msQA02auMe7oH/LAVbbJLfghrumkJg0IZ6lDKIydDqJwXMmHUjtMEqmAE/sFmPmQ92CGMJgQBfLB8yAi9zWem5rY2+4BTCV0+VPBkbHryk2arrJ8kzqm3gK+0saEAtZVUR9R4bm5Ve3K1ucl0ezg4h0p8tXc0NGFzFCdjcyW5iEvbalamH+6yxdQBKcImPp8/cOP9sTUjCYXx08kIO8w816Q6ZcYv537iIo1FyzokvsDdwFw8OD943h3u3traGWKW/7UG5bx0b3uXiba6MWWJ8F6Je/kgBL4bveSVEpMc=~1; Domain=.domain.com.au; Path=/; Expires=Wed, 13 Sep 2023 02:06:56 GMT; Max-Age=7157; Secure
+Set-Cookie: bm_sv=1225C188BFA7A10431C0647E3B511803~YAAQLKgtFxHX4YOKAQAAdG/dixWO/o86Hzi1kvQ4+CEcuTOylXU/q95va+c7RrI7s5OCmx1sM7+Y0qLzwEyKWL4yLNbQ/yDS9hcLEc35hZzg1q4SfOxgMMQ72cE0elrduBG1kTXBdsqtcpDoopdPPzeR5FHvQYrsXHli+6Wc4oABObsBlTt8Tv+52NolijQFr2qfo1yjwnv28rs+1xQC2eIG0dHHBPwes2PyZb0e3ktwAPUALwpKyx8ivBWWInOVvOxT~1; Domain=.domain.com.au; Path=/; Expires=Wed, 13 Sep 2023 02:07:00 GMT; Max-Age=7161; Secure
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains

@@ -1,0 +1,33 @@
+Content-Type: text/html; charset=utf-8
+X-Frame-Options: SAMEORIGIN
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 0
+Vary: Accept, Accept-Encoding
+Etag: "10yrc5ub0gcahbs"
+Server-Timing: getAuthToken; dur=0.06618299999999999; desc="Fetching an auth token"
+Server-Timing: getFeatureFlags; dur=1.8291199999999999; desc="Fetching feature flags"
+Server-Timing: listingSuppressionApiClient; dur=7.627504; desc="FETCH: Suppression API"
+Server-Timing: similarListingApiClient; dur=7.621290999999999; desc="FETCH: Similar Listing API"
+Server-Timing: listingsApiClient; dur=21.763552; desc="FETCH: Listing API"
+Server-Timing: allhomesCanonicalListings; dur=0.279105; desc="FETCH: Allhomes canonical listings"
+Server-Timing: schoolApiClient_nearbyExtended; dur=10.641229; desc="FETCH: School API nearbyExtended"
+Server-Timing: buildingProfileApiClient; dur=10.599791999999999; desc="FETCH: Building Profile API"
+Server-Timing: agencyApiClient-list; dur=10.566754999999999; desc="FETCH: Agent List API"
+Server-Timing: sa1ApiClient; dur=10.543471; desc="FETCH: SA1 API"
+Server-Timing: propertyProfile; dur=10.530415999999999; desc="FETCH: Property Profile API"
+Server-Timing: agencyApiClient; dur=12.760019999999999; desc="FETCH: Agency API"
+Server-Timing: streetApiClient; dur=12.7453; desc="FETCH: Street API"
+Server-Timing: SearchNonCritical-listing; dur=14.047324999999999; desc="POST: Similar Listings By Search API"
+Server-Timing: additionalDataClient; dur=14.014871; desc="FETCH: Additional data"
+Server-Timing: inferenceApiClient; dur=13.999678; desc="FETCH: Inference API"
+Server-Timing: listingAggregatorTime; dur=36.707243999999996; desc="LISTING AGGREGATOR"
+Server-Timing: getLocationProfileData; dur=0.06754199999999999; desc="Fetching location profile data"
+Server-Timing: total; dur=175.291666; desc="Total Response Time"
+X-Akamai-Transformed: 9 - 0 pmb=mTOE,1
+Content-Encoding: gzip
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Thu, 24 Aug 2023 20:38:02 GMT
+Date: Thu, 24 Aug 2023 20:38:02 GMT
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains

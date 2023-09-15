@@ -1,0 +1,34 @@
+Content-Type: text/html; charset=utf-8
+X-Frame-Options: SAMEORIGIN
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 0
+Vary: Accept, Accept-Encoding
+Etag: "us8jneh2w9abog"
+Server-Timing: getAuthToken; dur=0.048256; desc="Fetching an auth token"
+Server-Timing: getFeatureFlags; dur=2.2633259999999997; desc="Fetching feature flags"
+Server-Timing: listingSuppressionApiClient; dur=1.5937789999999998; desc="FETCH: Suppression API"
+Server-Timing: similarListingApiClient; dur=1.585234; desc="FETCH: Similar Listing API"
+Server-Timing: listingsApiClient; dur=7.312613; desc="FETCH: Listing API"
+Server-Timing: allhomesCanonicalListings; dur=0.154888; desc="FETCH: Allhomes canonical listings"
+Server-Timing: schoolApiClient_nearbyExtended; dur=7.498056; desc="FETCH: School API nearbyExtended"
+Server-Timing: buildingProfileApiClient; dur=7.4689369999999995; desc="FETCH: Building Profile API"
+Server-Timing: sa1ApiClient; dur=8.037644; desc="FETCH: SA1 API"
+Server-Timing: propertyProfile; dur=8.029372; desc="FETCH: Property Profile API"
+Server-Timing: agencyApiClient; dur=10.698146; desc="FETCH: Agency API"
+Server-Timing: streetApiClient; dur=10.683116; desc="FETCH: Street API"
+Server-Timing: SearchNonCritical-listing; dur=11.142854; desc="POST: Similar Listings By Search API"
+Server-Timing: additionalDataClient; dur=11.695006999999999; desc="FETCH: Additional data"
+Server-Timing: inferenceApiClient; dur=11.680975; desc="FETCH: Inference API"
+Server-Timing: agencyApiClient-list; dur=120.02022699999999; desc="FETCH: Agent List API"
+Server-Timing: listingAggregatorTime; dur=127.548925; desc="LISTING AGGREGATOR"
+Server-Timing: getLocationProfileData; dur=0.040187; desc="Fetching location profile data"
+Server-Timing: total; dur=218.245489; desc="Total Response Time"
+X-Akamai-Transformed: 9 - 0 pmb=mTOE,3
+Content-Encoding: gzip
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Thu, 24 Aug 2023 20:20:19 GMT
+Date: Thu, 24 Aug 2023 20:20:19 GMT
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+Set-Cookie: ak_bmsc=C52A4A6D1E5F8F638B27FAB4E405C369~000000000000000000000000000000~YAAQLKgtF6HR3RiKAQAAUnk0KRQeLhO6Y0odl+1fsFG4ry9M2z3QI/uKvjIAhLg9lqkIFVl4yc1+Q0f7IxPn3BKZ/ANsJwgQ9hhtFBuHKCaIKqDrO0fVFTwNQHXWmxTvjwF5NQj8291/q1OHsUs2D4NZz9gt1S6vGhGiksyvNbBEBneZuPUG6wPevqjaYVEh42ZiKvE3uPD7sle5wxoejVwJBDkkkm27SHzpZfHlg92Ee4s0qkotHwCQRSS3H9uHQ/YLQ1rPavyh2tKHb+hQlPuaxjb0AO6ttLT9JGQWfcm4RQTobcRdZno7pAAQhHhi7GYTw+IiMx+kk6rV9KFTcdi6iH/oTO7tgq1obdVLZRIV153KB3ff2cFn29p0LzCok14a6rxTz7UtRusej7nuUUY+MA2wwhMZJR8rwvxpwLJ26aHYAh2aRPgB/tPnTgdRWiyd/n253xwWgo2paLOpevMEPhF/psf/Fg==; Domain=.domain.com.au; Path=/; Expires=Thu, 24 Aug 2023 22:11:42 GMT; Max-Age=6683; HttpOnly

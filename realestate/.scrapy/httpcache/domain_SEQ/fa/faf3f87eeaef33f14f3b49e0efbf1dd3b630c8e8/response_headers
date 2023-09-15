@@ -1,0 +1,30 @@
+Content-Type: text/html; charset=utf-8
+X-Frame-Options: SAMEORIGIN
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 0
+Vary: Accept, Accept-Encoding
+Etag: "dnznip2mvj8bja"
+Server-Timing: getAuthToken; dur=0.038828999999999995; desc="Fetching an auth token"
+Server-Timing: getFeatureFlags; dur=4.928191; desc="Fetching feature flags"
+Server-Timing: listingSuppressionApiClient; dur=3.140936; desc="FETCH: Suppression API"
+Server-Timing: similarListingApiClient; dur=3.136824; desc="FETCH: Similar Listing API"
+Server-Timing: listingsApiClient; dur=18.375424; desc="FETCH: Listing API"
+Server-Timing: allhomesCanonicalListings; dur=0.372764; desc="FETCH: Allhomes canonical listings"
+Server-Timing: schoolApiClient_nearbyExtended; dur=12.778953; desc="FETCH: School API nearbyExtended"
+Server-Timing: agencyApiClient-list; dur=12.718539999999999; desc="FETCH: Agent List API"
+Server-Timing: sa1ApiClient; dur=12.699646999999999; desc="FETCH: SA1 API"
+Server-Timing: agencyApiClient; dur=12.684605999999999; desc="FETCH: Agency API"
+Server-Timing: SearchNonCritical-listing; dur=12.662096; desc="POST: Similar Listings By Search API"
+Server-Timing: additionalDataClient; dur=13.344861; desc="FETCH: Additional data"
+Server-Timing: inferenceApiClient; dur=13.334351; desc="FETCH: Inference API"
+Server-Timing: listingAggregatorTime; dur=31.950618; desc="LISTING AGGREGATOR"
+Server-Timing: getLocationProfileData; dur=0.039194; desc="Fetching location profile data"
+Server-Timing: total; dur=126.992971; desc="Total Response Time"
+X-Akamai-Transformed: 9 - 0 pmb=mTOE,1
+Content-Encoding: gzip
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Thu, 24 Aug 2023 20:38:46 GMT
+Date: Thu, 24 Aug 2023 20:38:46 GMT
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains

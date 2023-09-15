@@ -1,0 +1,34 @@
+Content-Type: text/html; charset=utf-8
+X-Frame-Options: SAMEORIGIN
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 0
+Vary: Accept, Accept-Encoding
+Etag: "d0slg708l1abnf"
+Server-Timing: getAuthToken; dur=0.043051; desc="Fetching an auth token"
+Server-Timing: getFeatureFlags; dur=2.962806; desc="Fetching feature flags"
+Server-Timing: listingSuppressionApiClient; dur=2.082227; desc="FETCH: Suppression API"
+Server-Timing: similarListingApiClient; dur=2.077572; desc="FETCH: Similar Listing API"
+Server-Timing: listingsApiClient; dur=13.155975; desc="FETCH: Listing API"
+Server-Timing: allhomesCanonicalListings; dur=0.26184999999999997; desc="FETCH: Allhomes canonical listings"
+Server-Timing: schoolApiClient_nearbyExtended; dur=12.624326; desc="FETCH: School API nearbyExtended"
+Server-Timing: buildingProfileApiClient; dur=12.570820999999999; desc="FETCH: Building Profile API"
+Server-Timing: agencyApiClient-list; dur=12.517347; desc="FETCH: Agent List API"
+Server-Timing: sa1ApiClient; dur=12.501152; desc="FETCH: SA1 API"
+Server-Timing: propertyProfile; dur=12.492049999999999; desc="FETCH: Property Profile API"
+Server-Timing: agencyApiClient; dur=13.793759; desc="FETCH: Agency API"
+Server-Timing: streetApiClient; dur=13.782741; desc="FETCH: Street API"
+Server-Timing: SearchNonCritical-listing; dur=14.391527; desc="POST: Similar Listings By Search API"
+Server-Timing: additionalDataClient; dur=14.969907999999998; desc="FETCH: Additional data"
+Server-Timing: inferenceApiClient; dur=14.960450999999999; desc="FETCH: Inference API"
+Server-Timing: rtaAuctionApiClient; dur=38.472496; desc="FETCH: RTA Auction API"
+Server-Timing: listingAggregatorTime; dur=51.963207; desc="LISTING AGGREGATOR"
+Server-Timing: getLocationProfileData; dur=16.365693; desc="Fetching location profile data"
+Server-Timing: total; dur=173.819721; desc="Total Response Time"
+X-Akamai-Transformed: 9 - 0 pmb=mTOE,1
+Content-Encoding: gzip
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Thu, 24 Aug 2023 20:23:29 GMT
+Date: Thu, 24 Aug 2023 20:23:29 GMT
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
