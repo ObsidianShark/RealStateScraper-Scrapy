@@ -19,6 +19,8 @@ class SouthEastQueenslandSpider(scrapy.Spider):
         "AUTOTHROTTLE_ENABLED": True,
         "AUTOTHROTTLE_DEBUG": True,
         "HTTPCACHE_ENABLED": True,
+        "FEED_FORMAT" : "csv",
+        "FEED_URI" : f"{name}.csv",
     }
 
     def parse(self, response):
@@ -75,6 +77,8 @@ class CentralQueenslandSpider(scrapy.Spider):
         "AUTOTHROTTLE_ENABLED": True,
         "AUTOTHROTTLE_DEBUG": True,
         "HTTPCACHE_ENABLED": True,
+        "FEED_FORMAT" : "csv",
+        "FEED_URI" : f"{name}.csv",
     }
 
     def parse(self, response):
@@ -129,6 +133,8 @@ class NorthQueenslandSpider(scrapy.Spider):
         "AUTOTHROTTLE_ENABLED": True,
         "AUTOTHROTTLE_DEBUG": True,
         "HTTPCACHE_ENABLED": True,
+        "FEED_FORMAT" : "csv",
+        "FEED_URI" : f"{name}.csv",
     }
 
     def parse(self, response):
@@ -185,6 +191,8 @@ class FarNorthQueenslandSpider(scrapy.Spider):
         "AUTOTHROTTLE_ENABLED": True,
         "AUTOTHROTTLE_DEBUG": True,
         "HTTPCACHE_ENABLED": True,
+        "FEED_FORMAT" : "csv",
+        "FEED_URI" : f"{name}.csv",
     }
 
     def parse(self, response):
