@@ -40,5 +40,5 @@ Spiders list:
 To crawl a desired region pick a spider name and run the command bellow:
 
 ```bash
-  scrapy crawl your_spider -o domain.json
+  scrapy crawl your_spider
 ```
