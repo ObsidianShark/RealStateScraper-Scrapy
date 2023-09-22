@@ -65,6 +65,7 @@ ROBOTSTXT_OBEY = True
 ITEM_PIPELINES = {
     "realestate.pipelines.StringNumPipeline": 200,
     "realestate.pipelines.ValidPricePipeline": 300,
+    'crawlab.CrawlabPipeline': 400,
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
