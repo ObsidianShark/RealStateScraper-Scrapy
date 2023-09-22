@@ -64,8 +64,7 @@ ROBOTSTXT_OBEY = True
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
     "realestate.pipelines.StringNumPipeline": 200,
-    "realestate.pipelines.ValidPricePipeline": 300,
-    'crawlab.CrawlabPipeline': 400,
+    "realestate.pipelines.ValidPricePipeline": 300,    
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
