@@ -18,9 +18,10 @@ class SouthEastQueenslandSpider(scrapy.Spider):
     custom_settings = {
         "AUTOTHROTTLE_ENABLED": True,
         "AUTOTHROTTLE_DEBUG": True,
-        "HTTPCACHE_ENABLED": True,
-        "FEED_FORMAT" : "csv",
-        "FEED_URI" : f"{name}.csv",
+        # "HTTPCACHE_ENABLED": True,
+        "FEEDS": {
+            f"{name}.json": {"format": "json"},
+        },
     }
 
     def parse(self, response):
@@ -29,7 +30,7 @@ class SouthEastQueenslandSpider(scrapy.Spider):
             yield response.follow(link, callback=self.parse_house)
 
         # Next page
-        next_page = response.css("a.css-1lkjjfg:nth-child(3)::attr(href)").get()
+        next_page = response.css("a.css-f56uil::attr('href')").get()
         if next_page:
             yield response.follow(next_page, callback=self.parse)
 
@@ -77,8 +78,9 @@ class CentralQueenslandSpider(scrapy.Spider):
         "AUTOTHROTTLE_ENABLED": True,
         "AUTOTHROTTLE_DEBUG": True,
         "HTTPCACHE_ENABLED": True,
-        "FEED_FORMAT" : "csv",
-        "FEED_URI" : f"{name}.csv",
+        "FEEDS": {
+            f"{name}.json": {"format": "json"},
+        },
     }
 
     def parse(self, response):
@@ -87,7 +89,7 @@ class CentralQueenslandSpider(scrapy.Spider):
             yield response.follow(link, callback=self.parse_house)
 
         # Next page
-        next_page = response.css(".css-xixru3::attr(href)").get()
+        next_page = response.css("a.css-f56uil::attr('href')").get()
         if next_page:
             yield response.follow(next_page, callback=self.parse)
 
@@ -133,8 +135,9 @@ class NorthQueenslandSpider(scrapy.Spider):
         "AUTOTHROTTLE_ENABLED": True,
         "AUTOTHROTTLE_DEBUG": True,
         "HTTPCACHE_ENABLED": True,
-        "FEED_FORMAT" : "csv",
-        "FEED_URI" : f"{name}.csv",
+        "FEEDS": {
+            f"{name}.json": {"format": "json"},
+        },
     }
 
     def parse(self, response):
@@ -143,7 +146,7 @@ class NorthQueenslandSpider(scrapy.Spider):
             yield response.follow(link, callback=self.parse_house)
 
         # Next page
-        next_page = response.css(".css-xixru3::attr(href)").get()
+        next_page = response.css("a.css-f56uil::attr('href')").get()
         if next_page:
             yield response.follow(next_page, callback=self.parse)
 
@@ -191,8 +194,9 @@ class FarNorthQueenslandSpider(scrapy.Spider):
         "AUTOTHROTTLE_ENABLED": True,
         "AUTOTHROTTLE_DEBUG": True,
         "HTTPCACHE_ENABLED": True,
-        "FEED_FORMAT" : "csv",
-        "FEED_URI" : f"{name}.csv",
+        "FEEDS": {
+            f"{name}.json": {"format": "json"},
+        },
     }
 
     def parse(self, response):
@@ -201,7 +205,7 @@ class FarNorthQueenslandSpider(scrapy.Spider):
             yield response.follow(link, callback=self.parse_house)
 
         # Next page
-        next_page = response.css(".css-xixru3::attr(href)").get()
+        next_page = response.css("a.css-f56uil::attr('href')").get()
         if next_page:
             yield response.follow(next_page, callback=self.parse)
 
